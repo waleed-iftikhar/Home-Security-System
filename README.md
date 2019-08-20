@@ -1,0 +1,2 @@
+# Home-Security-System
+Home security is one of the prime concerns in our life. A secure home provides peace to our mind both when we are at home and when we are away from home. So we designed a model of a simple home security system to keep the home safe from any intrusion or theft.  This project is based on a PIC16F887 microcontroller, switches and LCD. Microcontroller acts as a brain of the system. It takes input from the switches and display massages on the LCD accordingly. Switches are used to indicate inputs from different sensors
